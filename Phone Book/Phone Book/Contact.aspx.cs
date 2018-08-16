@@ -13,7 +13,7 @@ namespace Phone_Book
     public partial class Contact : System.Web.UI.Page
     {
         SqlCommand cmd = new SqlCommand();
-        SqlConnection con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\USERS\MODJADJI\DOCUMENTS\GITHUB\SOFTWARE-DEVELOPER-TEST\PHONE BOOK\PHONE BOOK\APP_DATA\USER.MDF");
+        SqlConnection con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\USERS\MODJADJI\DOCUMENTS\GITHUB\SOFTWARE-DEVELOPER-TEST\PHONE BOOK\PHONE BOOK\APP_DATA\USER.MDF;Integrated Security=True");
         SqlDataAdapter sda = new SqlDataAdapter();
         DataSet ds = new DataSet();
         DataTable dt = new DataTable();
