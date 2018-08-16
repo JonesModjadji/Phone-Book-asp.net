@@ -1,0 +1,134 @@
+C:\Desktop\Job\Phone Book\Phone Book\bin\ApplicationInsights.config
+C:\Desktop\Job\Phone Book\Phone Book\bin\roslyn\csc.exe
+C:\Desktop\Job\Phone Book\Phone Book\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Desktop\Job\Phone Book\Phone Book\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Desktop\Job\Phone Book\Phone Book\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Desktop\Job\Phone Book\Phone Book\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Desktop\Job\Phone Book\Phone Book\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Desktop\Job\Phone Book\Phone Book\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Desktop\Job\Phone Book\Phone Book\bin\roslyn\System.Collections.Immutable.dll
+C:\Desktop\Job\Phone Book\Phone Book\bin\roslyn\System.Reflection.Metadata.dll
+C:\Desktop\Job\Phone Book\Phone Book\bin\roslyn\vbc.exe
+C:\Desktop\Job\Phone Book\Phone Book\bin\roslyn\VBCSCompiler.exe
+C:\Desktop\Job\Phone Book\Phone Book\bin\roslyn\VBCSCompiler.exe.config
+C:\Desktop\Job\Phone Book\Phone Book\bin\Phone Book.dll.config
+C:\Desktop\Job\Phone Book\Phone Book\bin\Phone Book.dll
+C:\Desktop\Job\Phone Book\Phone Book\bin\Phone Book.pdb
+C:\Desktop\Job\Phone Book\Phone Book\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Desktop\Job\Phone Book\Phone Book\bin\Microsoft.AI.DependencyCollector.dll
+C:\Desktop\Job\Phone Book\Phone Book\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Desktop\Job\Phone Book\Phone Book\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Desktop\Job\Phone Book\Phone Book\bin\Microsoft.AI.Web.dll
+C:\Desktop\Job\Phone Book\Phone Book\bin\Microsoft.AI.WindowsServer.dll
+C:\Desktop\Job\Phone Book\Phone Book\bin\Microsoft.ApplicationInsights.dll
+C:\Desktop\Job\Phone Book\Phone Book\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Desktop\Job\Phone Book\Phone Book\bin\Microsoft.AI.DependencyCollector.xml
+C:\Desktop\Job\Phone Book\Phone Book\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Desktop\Job\Phone Book\Phone Book\bin\Microsoft.AI.Web.xml
+C:\Desktop\Job\Phone Book\Phone Book\bin\Microsoft.AI.WindowsServer.xml
+C:\Desktop\Job\Phone Book\Phone Book\bin\Microsoft.ApplicationInsights.xml
+C:\Desktop\Job\Phone Book\Phone Book\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Desktop\Job\Phone Book\Phone Book\obj\Debug\Phone Book.csprojResolveAssemblyReference.cache
+C:\Desktop\Job\Phone Book\Phone Book\obj\Debug\Phone Book.dll
+C:\Desktop\Job\Phone Book\Phone Book\obj\Debug\Phone Book.pdb
+E:\Job\Phone Book\Phone Book\bin\ApplicationInsights.config
+E:\Job\Phone Book\Phone Book\bin\roslyn\csc.exe
+E:\Job\Phone Book\Phone Book\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Job\Phone Book\Phone Book\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Job\Phone Book\Phone Book\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Job\Phone Book\Phone Book\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Job\Phone Book\Phone Book\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Job\Phone Book\Phone Book\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Job\Phone Book\Phone Book\bin\roslyn\System.Collections.Immutable.dll
+E:\Job\Phone Book\Phone Book\bin\roslyn\System.Reflection.Metadata.dll
+E:\Job\Phone Book\Phone Book\bin\roslyn\vbc.exe
+E:\Job\Phone Book\Phone Book\bin\roslyn\VBCSCompiler.exe
+E:\Job\Phone Book\Phone Book\bin\roslyn\VBCSCompiler.exe.config
+E:\Job\Phone Book\Phone Book\bin\Phone Book.dll.config
+E:\Job\Phone Book\Phone Book\bin\Phone Book.dll
+E:\Job\Phone Book\Phone Book\bin\Phone Book.pdb
+E:\Job\Phone Book\Phone Book\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Job\Phone Book\Phone Book\bin\Microsoft.AI.DependencyCollector.dll
+E:\Job\Phone Book\Phone Book\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Job\Phone Book\Phone Book\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Job\Phone Book\Phone Book\bin\Microsoft.AI.Web.dll
+E:\Job\Phone Book\Phone Book\bin\Microsoft.AI.WindowsServer.dll
+E:\Job\Phone Book\Phone Book\bin\Microsoft.ApplicationInsights.dll
+E:\Job\Phone Book\Phone Book\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Job\Phone Book\Phone Book\bin\Microsoft.AI.DependencyCollector.xml
+E:\Job\Phone Book\Phone Book\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Job\Phone Book\Phone Book\bin\Microsoft.AI.Web.xml
+E:\Job\Phone Book\Phone Book\bin\Microsoft.AI.WindowsServer.xml
+E:\Job\Phone Book\Phone Book\bin\Microsoft.ApplicationInsights.xml
+E:\Job\Phone Book\Phone Book\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Job\Phone Book\Phone Book\obj\Debug\Phone Book.csprojResolveAssemblyReference.cache
+E:\Job\Phone Book\Phone Book\obj\Debug\Phone Book.csproj.CoreCompileInputs.cache
+E:\Job\Phone Book\Phone Book\obj\Debug\Phone Book.dll
+E:\Job\Phone Book\Phone Book\obj\Debug\Phone Book.pdb
+F:\Job\Phone Book\Phone Book\bin\ApplicationInsights.config
+F:\Job\Phone Book\Phone Book\bin\roslyn\csc.exe
+F:\Job\Phone Book\Phone Book\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Job\Phone Book\Phone Book\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Job\Phone Book\Phone Book\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Job\Phone Book\Phone Book\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Job\Phone Book\Phone Book\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Job\Phone Book\Phone Book\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Job\Phone Book\Phone Book\bin\roslyn\System.Collections.Immutable.dll
+F:\Job\Phone Book\Phone Book\bin\roslyn\System.Reflection.Metadata.dll
+F:\Job\Phone Book\Phone Book\bin\roslyn\vbc.exe
+F:\Job\Phone Book\Phone Book\bin\roslyn\VBCSCompiler.exe
+F:\Job\Phone Book\Phone Book\bin\roslyn\VBCSCompiler.exe.config
+F:\Job\Phone Book\Phone Book\bin\Phone Book.dll.config
+F:\Job\Phone Book\Phone Book\bin\Phone Book.dll
+F:\Job\Phone Book\Phone Book\bin\Phone Book.pdb
+F:\Job\Phone Book\Phone Book\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Job\Phone Book\Phone Book\bin\Microsoft.AI.DependencyCollector.dll
+F:\Job\Phone Book\Phone Book\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Job\Phone Book\Phone Book\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Job\Phone Book\Phone Book\bin\Microsoft.AI.Web.dll
+F:\Job\Phone Book\Phone Book\bin\Microsoft.AI.WindowsServer.dll
+F:\Job\Phone Book\Phone Book\bin\Microsoft.ApplicationInsights.dll
+F:\Job\Phone Book\Phone Book\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Job\Phone Book\Phone Book\bin\Microsoft.AI.DependencyCollector.xml
+F:\Job\Phone Book\Phone Book\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Job\Phone Book\Phone Book\bin\Microsoft.AI.Web.xml
+F:\Job\Phone Book\Phone Book\bin\Microsoft.AI.WindowsServer.xml
+F:\Job\Phone Book\Phone Book\bin\Microsoft.ApplicationInsights.xml
+F:\Job\Phone Book\Phone Book\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Job\Phone Book\Phone Book\obj\Debug\Phone Book.csprojResolveAssemblyReference.cache
+F:\Job\Phone Book\Phone Book\obj\Debug\Phone Book.csproj.CoreCompileInputs.cache
+F:\Job\Phone Book\Phone Book\obj\Debug\Phone Book.dll
+F:\Job\Phone Book\Phone Book\obj\Debug\Phone Book.pdb
+G:\Job\Phone Book\Phone Book\bin\ApplicationInsights.config
+G:\Job\Phone Book\Phone Book\bin\roslyn\csc.exe
+G:\Job\Phone Book\Phone Book\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Job\Phone Book\Phone Book\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Job\Phone Book\Phone Book\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Job\Phone Book\Phone Book\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Job\Phone Book\Phone Book\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Job\Phone Book\Phone Book\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Job\Phone Book\Phone Book\bin\roslyn\System.Collections.Immutable.dll
+G:\Job\Phone Book\Phone Book\bin\roslyn\System.Reflection.Metadata.dll
+G:\Job\Phone Book\Phone Book\bin\roslyn\vbc.exe
+G:\Job\Phone Book\Phone Book\bin\roslyn\VBCSCompiler.exe
+G:\Job\Phone Book\Phone Book\bin\roslyn\VBCSCompiler.exe.config
+G:\Job\Phone Book\Phone Book\bin\Phone Book.dll.config
+G:\Job\Phone Book\Phone Book\bin\Phone Book.dll
+G:\Job\Phone Book\Phone Book\bin\Phone Book.pdb
+G:\Job\Phone Book\Phone Book\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Job\Phone Book\Phone Book\bin\Microsoft.AI.DependencyCollector.dll
+G:\Job\Phone Book\Phone Book\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Job\Phone Book\Phone Book\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Job\Phone Book\Phone Book\bin\Microsoft.AI.Web.dll
+G:\Job\Phone Book\Phone Book\bin\Microsoft.AI.WindowsServer.dll
+G:\Job\Phone Book\Phone Book\bin\Microsoft.ApplicationInsights.dll
+G:\Job\Phone Book\Phone Book\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Job\Phone Book\Phone Book\bin\Microsoft.AI.DependencyCollector.xml
+G:\Job\Phone Book\Phone Book\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Job\Phone Book\Phone Book\bin\Microsoft.AI.Web.xml
+G:\Job\Phone Book\Phone Book\bin\Microsoft.AI.WindowsServer.xml
+G:\Job\Phone Book\Phone Book\bin\Microsoft.ApplicationInsights.xml
+G:\Job\Phone Book\Phone Book\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Job\Phone Book\Phone Book\obj\Debug\Phone Book.csprojResolveAssemblyReference.cache
+G:\Job\Phone Book\Phone Book\obj\Debug\Phone Book.dll
+G:\Job\Phone Book\Phone Book\obj\Debug\Phone Book.pdb

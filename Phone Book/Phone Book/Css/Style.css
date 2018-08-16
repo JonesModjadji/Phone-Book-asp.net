@@ -1,0 +1,118 @@
+table{
+	margin: 25px;
+}
+center{
+	vertical-align: middle;
+	margin-top: 10%;
+	font-family: Adobe Gothic std;
+}
+h1{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 40px;
+	background-color: gray;
+}
+.btn-primary{
+margin-top: 20px;
+}
+
+#Label1
+{
+vertical-align:top;
+font-size: 50px;
+}
+#Label2
+{
+vertical-align:top;
+font-size: 50px;
+}
+#Image1{
+	margin-top: 17px;
+	margin-right: 10px;
+	background-color: black;
+}
+#Label3{
+	position: absolute;
+	margin-top: -230px;
+	margin-left: 315px;
+	font-size: 20px;
+}
+#Label4{
+	display: none;
+}
+#Label5{
+	display: none;
+}
+#Label6{
+	
+	position: absolute;
+	margin-top: -80px;
+	margin-left: 315px;
+}
+#Label11
+{
+position: absolute;
+color:red;
+margin-top:-11px;
+}
+#Label12
+{
+position: absolute;
+color:red;
+margin-top:-11px;
+}
+#Label13
+{
+position: absolute;
+color:red;
+margin-top:-11px;
+}
+#Label14
+{
+position: absolute;
+color:red;
+margin-top:-11px;
+}
+#Label15
+{
+position: absolute;
+color:red;
+margin-top:-11px;
+}
+#Label16 
+{
+position: absolute;
+color:red;
+margin-top:-11px;
+}
+#Label19 
+{
+    position:absolute;
+    color:red;
+    margin-top:-11px;
+}
+#Label20 
+{
+    position:absolute;
+    color:red;
+    margin-top:-11px;
+}
+#Label21 
+{
+    position:absolute;
+    color:red;
+    margin-top:-11px;
+}
+#VisitWeb{
+	position: absolute;
+	margin-top: -40px;
+	margin-left: 315px;
+	width: 200px;
+}
+#RequestCV{
+position: absolute;
+	margin-top: -40px;
+	margin-left: 900px;
+	width: 200px;
+}
+
