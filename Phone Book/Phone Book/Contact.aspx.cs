@@ -6,14 +6,13 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Data;
-using System.Data.SqlClient;
 
 namespace Phone_Book
 {
     public partial class Contact : System.Web.UI.Page
     {
         SqlCommand cmd = new SqlCommand();
-        SqlConnection con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\USERS\MODJADJI\DOCUMENTS\GITHUB\SOFTWARE-DEVELOPER-TEST\PHONE BOOK\PHONE BOOK\APP_DATA\USER.MDF;Integrated Security=True");
+        SqlConnection con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\USERS\MODJADJI\DOCUMENTS\GITHUB\SOFTWARE-DEVELOPER-TEST\PHONE BOOK\PHONE BOOK\APP_DATA\USERS.MDF;Integrated Security=True");
         SqlDataAdapter sda = new SqlDataAdapter();
         DataSet ds = new DataSet();
         DataTable dt = new DataTable();
@@ -29,7 +28,7 @@ namespace Phone_Book
         }
         public void showdata()
         {
-            
+           
             cmd.CommandText = "select * from users where email='"+ Session["user"]+"'";
             cmd.Connection = con;
             sda.SelectCommand = cmd;
@@ -39,8 +38,17 @@ namespace Phone_Book
             Label3.Text = ds.Tables[0].Rows[0]["about"].ToString();
             Label4.Text = ds.Tables[0].Rows[0]["phone"].ToString();
             Label5.Text = ds.Tables[0].Rows[0]["email"].ToString();
-            Image1.ImageUrl = ds.Tables[0].Rows[0]["photo"].ToString();
-            Label6.Text = "www." + Label5.Text + " | @info" + Label5.Text + " | " + Label4.Text ;
+          
+           
+            SqlDataReader dr = cmd.ExecuteReader();
+            if (dr.Read())
+            {
+
+                string imagename = dr["photoID"].ToString();
+                
+                Image1.ImageUrl = "~/Images/" + imagename;
+            }
+                Label6.Text = "www." + Label5.Text + " | @info" + Label5.Text + " | " + Label4.Text ;
         }
 
         protected void VisitWeb_Click(object sender, EventArgs e)

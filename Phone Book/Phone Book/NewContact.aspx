@@ -49,22 +49,32 @@
         <td><asp:Label ID="Label16" runat="server"></asp:Label></td>
         </tr>
              <tr>
-            <td></td>
+            <td>
+                <asp:TextBox ID="txtName2" runat="server" Height="21px" Width="16px" OnTextChanged="txtName2_TextChanged" BorderStyle="None"></asp:TextBox>
+                 </td>
             <td><asp:LinkButton runat="server" CssClass="btn btn-primary" ID="btnHomePage" Text="Home Page" OnClick="btnHomePage_Click" Width="110px" />
                 <asp:LinkButton runat="server" CssClass="btn btn-primary" Text="Save" ID="btnSave" onClick="btnSave_Click" Width="100px" />
                 <asp:LinkButton ID="btnClear" runat="server" CssClass="btn btn-primary" Text="Clear" onClick="btnClear_Click" Width="90px"/>
             </td>
         </tr>
-          <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\user.mdf;Integrated Security=True" InsertCommand="INSERT INTO users(name, surname, about, phone, email, photo) VALUES (@i1,@i2,@i3,@i4,@i5,@i6)" ProviderName="System.Data.SqlClient">
-                    <InsertParameters>
-                        <asp:ControlParameter ControlID="FileUpload1" DefaultValue="FileUpload1.FileBytes" Name="i6" PropertyName="FileBytes" />
-                        <asp:ControlParameter ControlID="email" DefaultValue="" Name="i5" PropertyName="Text" />
-                        <asp:ControlParameter ControlID="phone" Name="i4" PropertyName="Text" />
-                        <asp:ControlParameter ControlID="about" Name="i3" PropertyName="Text" />
-                        <asp:ControlParameter ControlID="surname" Name="i2" PropertyName="Text" />
-                        <asp:ControlParameter ControlID="name" Name="i1" PropertyName="Text" />
-                    </InsertParameters>
-                </asp:SqlDataSource>
+          <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\users.mdf;Integrated Security=True" InsertCommand="INSERT INTO users(name, surname, about, phone, email, photo, photoID) VALUES (@i1,@i2,@i3,@i4,@i5,@i6,@i7)" ProviderName="System.Data.SqlClient">
+              <InsertParameters>
+                  <asp:ControlParameter ControlID="name" Name="i1" PropertyName="Text" />
+                  <asp:ControlParameter ControlID="surname" Name="i2" PropertyName="Text" />
+                  <asp:ControlParameter ControlID="about" Name="i3" PropertyName="Text" />
+                  <asp:ControlParameter ControlID="phone" Name="i4" PropertyName="Text" />
+                  <asp:ControlParameter ControlID="email" Name="i5" PropertyName="Text" />
+                  <asp:ControlParameter ControlID="FileUpload1" Name="i6" PropertyName="FileBytes" />
+                  <asp:ControlParameter ControlID="txtName2" Name="i7" PropertyName="Text" />
+              </InsertParameters>
+        </asp:SqlDataSource>
+        <tr>
+            <td>
+                &nbsp;</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+        </tr>
        </table>
              </center>     
     </form>
