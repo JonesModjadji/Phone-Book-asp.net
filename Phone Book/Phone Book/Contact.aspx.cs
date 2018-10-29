@@ -6,6 +6,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Data;
+using System.IO;
 
 namespace Phone_Book
 {
@@ -32,25 +33,24 @@ namespace Phone_Book
             cmd.CommandText = "select * from users where email='"+ Session["user"]+"'";
             cmd.Connection = con;
             sda.SelectCommand = cmd;
-            sda.Fill(ds); 
+            sda.Fill(ds);
             Label1.Text= ds.Tables[0].Rows[0]["name"].ToString();
             Label2.Text = ds.Tables[0].Rows[0]["surname"].ToString();
             Label3.Text = ds.Tables[0].Rows[0]["about"].ToString();
             Label4.Text = ds.Tables[0].Rows[0]["phone"].ToString();
             Label5.Text = ds.Tables[0].Rows[0]["email"].ToString();
-          
-           
+
             SqlDataReader dr = cmd.ExecuteReader();
             if (dr.Read())
             {
 
                 string imagename = dr["photoID"].ToString();
-                
+
                 Image1.ImageUrl = "~/Images/" + imagename;
             }
-                Label6.Text = "www." + Label5.Text + " | @info" + Label5.Text + " | " + Label4.Text ;
+           
+            Label6.Text = "www." + Label5.Text + " | @info" + Label5.Text + " | " + Label4.Text ;
         }
-
         protected void VisitWeb_Click(object sender, EventArgs e)
         {
             Response.Redirect("http://www.google.co.za");
